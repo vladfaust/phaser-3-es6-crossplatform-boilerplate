@@ -1,6 +1,6 @@
-# Phaser 3 Cross-Platform ES6 Boilerplate
+# Phaser 3 Typescript ES6 Boilerplate
 
-[Phaser 3](https://phaser.io) boileplate with ES6 Webpack Core and bare Android application with fullscreen WebView.
+[Phaser 3](https://phaser.io) multiplatform boileplate with Typescript Webpack Core and bare Android application with fullscreen WebView.
 
 ## Prerequisites
 
@@ -18,7 +18,7 @@
 2. `cd core && yarn`
 3. Create `.env` file like `.env.example` - this will will be used *only* for development
 4. Run `yarn dev` and open `http://localhost:8080`
-5. Develop your game starting from `src/index.js`
+5. Develop your game starting from `src/index.ts`
 
 ## Building
 
